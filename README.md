@@ -1,5 +1,5 @@
-<h1 align="left">Hi, I'm Xav!</h1>
-If you have any suggestions on anything I make, feel free to submit an issue or pull request, or send me a DM on discord!
+<h1 align="left">Hi, I'm Sata!</h1>
+If you have any suggestions on anything I make, feel free to submit an issue or pull request, or message me on Discord!
 
 <h2 align="left">What I'm listening to:</h2>
 
