@@ -12,6 +12,7 @@ Find me everywhere:
 <a href="https://xdaforums.com/m/9877962/"><img src="https://img.shields.io/badge/XDA_Forums-AC6E2F?style=for-the-badge&logo=xda-developers&logoColor=white"></a>
 <a href="https://ifixit.com/User/3457468/"><img src="https://img.shields.io/badge/iFixit-0071CE?style=for-the-badge&logo=ifixit&logoColor=white"></a>
 <a href="https://thingiverse.com/sata1000000"><img src="https://img.shields.io/badge/Thingiverse-248BFB?style=for-the-badge&logo=thingiverse&logoColor=white"></a>
+<a href="https://www.printables.com/@sata1000000_5597499"><img src="https://img.shields.io/badge/Printables-FA6831?style=for-the-badge&logo=printables&logoColor=white"></a>
 <a href="https://tinkercad.com/users/8vflJSn7Jal"><img src="https://img.shields.io/badge/Tinkercad-1477D1?style=for-the-badge&logo=tinkercad&logoColor=white"></a>
 <a href="https://facer.io/user/7S9E06WYeT"><img src="https://raw.githubusercontent.com/sata1000000/sata1000000/main/assets/facer.svg" height=28></a>
 <a href="https://macosicons.com/u/sata1000000"><img src="https://img.shields.io/badge/macOS_icons-000000?style=for-the-badge&logo=apple&logoColor=white"></a>
